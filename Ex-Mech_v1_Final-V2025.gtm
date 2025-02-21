@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?><!--Internal Information used to aid in debugging customer issues:
 Build Version: 0.7500
-Time Stamp: 02/21/2025 18:23:56 799ms
+Time Stamp: 02/21/2025 18:26:47 134ms
 License Information: Licensed Feature: GTguiB
 Entitlement ID: AJTUFVPGTKWHRSJIXHIVUECJZUDAUS
 License Server: localhost
@@ -1001,7 +1001,7 @@ JMF    version : 2.1.1e
         </object>
         <object id="o60035" name="Spring" t_id="220">
             <value>
-                <va a_id="2539" on="true" text="1" unitID="133"/>
+                <va a_id="2539" on="true" text="2" unitID="133"/>
                 <va a_id="2540" text="0" unitID="87"/>
                 <va a_id="968859" text="" unitID="87"/>
                 <va a_id="968860" text="" unitID="3"/>
